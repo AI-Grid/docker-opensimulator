@@ -1,6 +1,6 @@
 # docker-opensimulator
 
-Docker container for [OpenSimulator 0.9.1.1][3]
+Docker container for [OpenSimulator 0.8.2.1][3]
 
 "OpenSimulator is an open source multi-platform, multi-user 3D application server. It can be used to create a virtual environment (or world) which can be accessed through a variety of clients, on multiple protocols. It also has an optional facility (the Hypergrid) to allow users to visit other OpenSimulator installations across the web from their 'home' OpenSimulator installation. In this way, it is the basis of a nascent distributed Metaverse."
 
