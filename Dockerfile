@@ -1,10 +1,10 @@
 #Name of container: docker-opensimulator
 #Version of container: 0.4.3
 FROM quantumobject/docker-baseimage:18.04
-MAINTAINER Angel Rodriguez  "angel@quantumobject.com"
+MAINTAINER AI-Grid Team "aigrid@easierit.org"
 
 #to fix problem with /etc/localtime
-ENV TZ America/New_York
+ENV TZ Europe/Warsaw
 
 #Add repository and update the container
 #Installation of necessary package/software for this containers...
